@@ -1,0 +1,7 @@
+import time
+from seleniumbase import BaseCase
+
+
+class VisualLayoutTest(BaseCase):
+
+$test
